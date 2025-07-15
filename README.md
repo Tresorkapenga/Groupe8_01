@@ -1,5 +1,2 @@
-# Groupe8
-### EDIMBA KAPENGA Tresor
-### 8_01
-
-
+# Groupe8_01
+TDs d'algo
