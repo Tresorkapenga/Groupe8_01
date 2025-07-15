@@ -11,4 +11,3 @@ print(f"Prénom: {prenom}")
 print(f"Âge : {age} ans ({jours_vécus} jours vécus environ)")
 print(f"Ville : {ville}")
 print(f"Métier: {metier}")
-
